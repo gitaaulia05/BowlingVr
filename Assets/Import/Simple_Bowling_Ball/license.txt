@@ -1,0 +1,11 @@
+Model Information:
+* title:	Simple Bowling Ball
+* source:	https://sketchfab.com/3d-models/simple-bowling-ball-6c505510ffa04828b6b0e0c8d857accf
+* author:	Piterus13 (https://sketchfab.com/piotrekmiratynski)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Simple Bowling Ball" (https://sketchfab.com/3d-models/simple-bowling-ball-6c505510ffa04828b6b0e0c8d857accf) by Piterus13 (https://sketchfab.com/piotrekmiratynski) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
