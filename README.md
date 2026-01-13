@@ -15,8 +15,7 @@
 ---
 
 ## 📹 Demo Video
-
-
+![Demo Bowling VR](Demo/Bowling-Demo.gif)
 
 ---
 
