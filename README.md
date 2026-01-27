@@ -6,7 +6,6 @@
 
 ---
 
-<<<<<<< HEAD
 ## ✨ Fitur Game
 
 - 🔊 **Efek Suara Realistis**  
@@ -30,44 +29,19 @@
 
 ---
 
-## 📹 Demo Video
-
-![Demo Bowling VR](Demo/Bowling-Demo.gif)
-Demo Lengkap - [Drive]()
-=======
-## 🎮 Cara Bermain
-
-1. Buka project di Unity.  
-2. Gunakan controller dengan klik kanan untuk menembak bola
-
-
----
 
 ## 📹 Demo Video
-![Demo Bowling VR](Demo/Bowling-Demo.gif)
->>>>>>> 9fa0b1685831a133754631960d93554618d51716
+
+![Demo Bowling VR](Demo/Bowling-club-demo.gif)
+Full Demo Video [Google Drive](https://drive.google.com/file/d/19EMupMf-CFMYTpMDGguTdE_5xEGuabog/view?usp=sharing)
 
 ---
 
 ## 🎨 Credit Asset
 
-<<<<<<< HEAD
 - **Bowling Ball Asset:** MSerdar Tekin - [Sketchfab](https://sketchfab.com/3d-models/bowling-ball-fc8f1162901a4e38b506fe1ab229f296)
 - **Bowling Pin Asset:** MSerdar Tekin - [Sketchfab](https://sketchfab.com/3d-models/bowling-pin-028ccb945012460aa9056ffda5b53e20)
 - **Bowling Club Asset:** tiunov.se - [Sketchfab](https://sketchfab.com/3d-models/bowling-club-0b8fae45fcda4fe78f93bb2a899401a6)
+- **Sound Bowling:** [youtube](https://youtu.be/n2IG4BdcEvU?si=Q3OEnsNSGF97ME4P)
 
 ---
-=======
-- **Bowling Ball Asset:** MSerdar Tekin - [Sketchfab](https://sketchfab.com/3d-models/bowling-pin-028ccb945012460aa9056ffda5b53e20)  
-- **Bowling Pin Asset:** MSerdar Tekin - [Sketchfab](https://sketchfab.com/3d-models/bowling-ball-fc8f1162901a4e38b506fe1ab229f296)  
-
----
-
-## ⚡ Catatan
-
-- Project ini masih bisa dikembangkan, misalnya menambahkan skor, efek suara tambahan, atau arena yang lebih kompleks.  
-- Pastikan controller gerak sudah terhubung dengan benar sebelum bermain.
-
----
-
->>>>>>> 9fa0b1685831a133754631960d93554618d51716
